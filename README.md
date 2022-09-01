@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HGITUP
 - 👀 I’m interested in ... Programming, Data structure and Algorithms, Game Development, Ethical Hacking
-- 🌱 I’m currently learning ... C++, Andriod App development
-- 💞️ I’m looking to collaborate on ... Andriod App development
+- 🌱 I’m currently learning ... Frontend Development and UX design
+- 💞️ I’m looking to collaborate on ... Frontend Dev
 - 📫 How to reach me ...Email - workhemant143@gmail.com
 
 <!---
